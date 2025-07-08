@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reshad Ismayilov</h1>
+<h1 align="center">Hi , I'm Reshad Ismayilov</h1>
 <h3 align="center">Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshad111&label=Profile%20views&color=0e75b6&style=flat" alt="reshad111" /> </p>
